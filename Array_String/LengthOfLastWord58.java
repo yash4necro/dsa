@@ -1,4 +1,4 @@
-class lengthOfLastWord58 {
+class LengthOfLastWord58 {
     public int lengthOfLastWord(String s) {
         String [] arr = s.split(" ");
         for (int i = arr.length - 1; i >= 0; i--) {
