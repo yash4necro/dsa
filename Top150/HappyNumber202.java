@@ -1,4 +1,4 @@
-class Solution {
+class HappyNumber202 {
     public boolean isHappy(int n) {
         // FLOYD'S TORTOISE AND HARE
         int slow = n, fast = n;
